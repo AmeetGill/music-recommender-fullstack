@@ -1,0 +1,831 @@
+﻿Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo']
+Durchschnittliche Silhouette Score: 0.29412248752589504
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo']
+Durchschnittliche Silhouette Score: 0.2809203856384884
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo']
+Durchschnittliche Silhouette Score: 0.2650805164675351
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo']
+Durchschnittliche Silhouette Score: 0.25132817293627036
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo']
+Durchschnittliche Silhouette Score: 0.2360344630344549
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo']
+Durchschnittliche Silhouette Score: 0.22779359145791483
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig']
+Durchschnittliche Silhouette Score: 0.41060360204275675
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig']
+Durchschnittliche Silhouette Score: 0.4170060471459619
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig']
+Durchschnittliche Silhouette Score: 0.38312437279172834
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3746978654312382
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig']
+Durchschnittliche Silhouette Score: 0.35427486703868216
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig']
+Durchschnittliche Silhouette Score: 0.34510827268908917
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey']
+Durchschnittliche Silhouette Score: 0.3709430520052986
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey']
+Durchschnittliche Silhouette Score: 0.3503197465454534
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey']
+Durchschnittliche Silhouette Score: 0.3269542766438775
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey']
+Durchschnittliche Silhouette Score: 0.33495996100805064
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey']
+Durchschnittliche Silhouette Score: 0.3494105868306814
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey']
+Durchschnittliche Silhouette Score: 0.34895241099812
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'mode']
+Durchschnittliche Silhouette Score: 0.4946265326611677
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'mode']
+Durchschnittliche Silhouette Score: 0.4285923350101254
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'mode']
+Durchschnittliche Silhouette Score: 0.39216254214667434
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'mode']
+Durchschnittliche Silhouette Score: 0.35826312677394734
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'mode']
+Durchschnittliche Silhouette Score: 0.3426493961248379
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'mode']
+Durchschnittliche Silhouette Score: 0.34383886547048276
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3009714365014184
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3405306327951411
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3451734384899698
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3303803620605673
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.32295801274149655
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.31954916371882736
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.2792752696367561
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.26872363184864284
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.27428445380577865
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.287559941996043
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.3185982046213645
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.31469850606165833
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3608170407721496
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3563395844252605
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3385810899878753
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.32366051030746873
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3213308774065467
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.31900184219725797
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.4387899714158971
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.39943614729079646
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.36991787775922447
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.4679998020647546
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.4991660083957372
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.5203698332811081
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5442271650654232
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5627278947021563
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.546839022711855
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5258849308098652
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5166542388957422
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5158647219010625
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5231426878054665
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.46524909079115784
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.44676350554703353
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5108419293118718
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5271874937498549
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5165278151338999
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3591330149880777
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3521794564289153
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3501359525695155
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.36505188318829523
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.3504296390889126
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.34751899456313795
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.3458705780732222
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.3143238550901914
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.2861688632452834
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.2775761814803179
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.31300716862931915
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.33099989648931116
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.44519508991823464
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.40316298971016007
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.37759003401311586
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3588187508436005
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3484720150907133
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3459333522005807
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3886120627197861
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.38016908648591935
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3679615563298676
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3965590864916141
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.4735450641126772
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.5501144369898456
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5659169080973906
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5884052202528445
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.6027931375714266
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5896759359264685
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5916109762445176
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5907623307149673
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.43510438900543064
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.45071001857075765
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.4674826172623745
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.48408098529383803
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.560529898481192
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.586717969328905
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3821913968210976
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.34260879728773874
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3191600029663845
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.37082456152293297
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.46884078506843474
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.5070314742340403
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.46183784160403896
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.43714922874770723
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5426907527479815
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5361197856168908
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5319463456106468
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.5399422538132047
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.453482990958892
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3998993239265919
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3939797582289223
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.45073077618275803
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5111192133804316
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5257137965918661
+
+Führe k-means++-Test mit 7 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.538663660557833
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.512996251747199
+
+Führe k-means++-Test mit 25 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5582937906377965
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.7933790245558545
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.9794438050131614
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.9995199814063339
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.26759567577603455
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.246359353401615
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.24956576156998844
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig']
+Durchschnittliche Silhouette Score: 0.2434325192902987
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.27506574706827297
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.21015887701292976
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.21464709273389068
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey']
+Durchschnittliche Silhouette Score: 0.22388071708768117
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.3239420197735875
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.2688523640304781
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.24781842001590587
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'mode']
+Durchschnittliche Silhouette Score: 0.2351070849989383
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3239515790409526
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.2691570521472109
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3050748751421649
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.3184723652882648
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.4793556153153843
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.3933825497223574
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.3746932924346217
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.3512291895976073
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.382468012649471
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3205814529499959
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.33859467014114003
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3430573150079363
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.28290709664620745
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.23677485313862232
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.2684880475691254
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.30095385444662787
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.3261614836610277
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.34539171313294303
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.33170162416674487
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.31810167229093045
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.31873083971877564
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.27342984590420133
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2905110835790052
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3126915591104478
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.4435100519066296
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.40315305471520657
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.4650313237591804
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.5005912568806219
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.2902103873499242
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.2477183040342347
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.25219539607813496
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.28965823326112317
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.38381758524678283
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.3580653439558409
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.35388139311445405
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.3507695775464251
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.34725241315144306
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.28637458062472293
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.28226920828677204
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3103973925728292
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.35566570704528977
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.39061683010981485
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.4175976735039878
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.4861361793094662
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3942297958460558
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.33418124517933273
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.39311356003895803
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.46967418555975904
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.2583044566619416
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.20429172138679164
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.18822383951907362
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey']
+Durchschnittliche Silhouette Score: 0.19933597353214727
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.31706276354716434
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.2572684871105393
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.25289655650680354
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'mode']
+Durchschnittliche Silhouette Score: 0.24804661905852896
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.3116408287751704
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.23104549087439005
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.21383845449665975
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.21772032294372332
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.32455579117483946
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2966151852543152
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2820999259934476
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.30226714759109485
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.32202255378007616
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2436690337774226
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.24576106033949907
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2725814429466592
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2850981952118009
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2603996755297041
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.24295328193366733
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2590812839344236
+
+Führe k-means++-Test mit 10 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2806231390112094
+
+Führe k-means++-Test mit 50 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.2176626996349257
+
+Führe k-means++-Test mit 100 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.1995497296665892
+
+Führe k-means++-Test mit 200 Cluster-Zentren und folgenden Cluster-Parametern aus...
+Cluster-Parameter:  ['loudness', 'hotttnesss', 'tempo', 'timeSig', 'songkey', 'mode']
+Durchschnittliche Silhouette Score: 0.19163193420342609

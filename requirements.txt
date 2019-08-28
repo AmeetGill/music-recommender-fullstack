@@ -1,0 +1,8 @@
+numpy
+six
+tables
+h5py
+numexpr
+Cython
+scikit-learn
+flask

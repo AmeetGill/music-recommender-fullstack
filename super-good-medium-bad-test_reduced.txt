@@ -1,0 +1,9 @@
+k-means++ mit k = 200
+Cluster-Parameter: ['timeSig', 'songkey', 'mode']
+Andere Parameter: ['loudness', 'tempo']
+Limits f�r bad/medium/good/super: [3, 9, 24]
+Durchschnittliche Silhouette Score: 0.9996499812785155
+Durchschnittliche Punktzahl der super Songs: 4.131896551724138 29 Songs
+Durchschnittliche Punktzahl der good Songs: 2.6575581395348835 215 Songs
+Durchschnittliche Punktzahl der medium Songs: 1.999877750611247 409 Songs
+Durchschnittliche Punktzahl der bad Songs: 1.8389145012573342 1193 Songs
